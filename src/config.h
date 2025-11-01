@@ -3,5 +3,6 @@
 #define IMG_TXT "Need for Speed: Most Wanted"
 #define UPD_INTVL 5000
 
-#define IN_MENU "Main Menu" // ANY menu
+#define IN_MENU "Ingame Menus" // ANY menu
+
 
